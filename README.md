@@ -10,3 +10,9 @@ Código del ejemplo que se ve en el vídeo de Youtube [🔐 Cómo hacer LOGIN y 
 ## Licencia
 
 MIT (c) Carlos Azaustre
+
+## Configuración y seguridad
+
+Este ejemplo utiliza **React y Auth0**. Para ejecutarlo, consulta los scripts del proyecto y configura el dominio y el identificador de cliente de Auth0 en los archivos o variables de entorno correspondientes. Nunca expongas secretos de cliente en el navegador.
+
+**Autoría original y licencia:** Carlos Azaustre, MIT, tal como se indica arriba. Mantenimiento de esta copia: **KNJ** · [KNJ Marketing](https://www.marketingknj.site/).
